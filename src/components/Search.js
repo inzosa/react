@@ -11,6 +11,7 @@ const Search = () => {
     top: 10px;
     left: 50px;
     padding: 20px 30px;
+    box-shadow: 0px 2px 2px 0px rgb(214, 214, 214);
   `;
   const SearchTtitleStyle = styled.div`
     padding: 10px 0px;
