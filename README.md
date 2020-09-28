@@ -2,7 +2,7 @@
 
 # 사진
 
-![main](https://kkukowiki.kr/images/2/27/%EB%85%B8%EC%A7%84%EA%B5%AC.jpg)
+![main](https://kkukowiki.kr/images/2/27/%EB%85%B8%EC%A7%84%EA%B5%AC.jp)
 
 ### 설치
 
